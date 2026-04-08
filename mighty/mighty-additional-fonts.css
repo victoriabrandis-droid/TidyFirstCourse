@@ -1,0 +1,71 @@
+
+@font-face {
+  font-family: 'Noto Sans';
+  src: url('../lib/fonts/z1rooN7bz0SUkuJl-NotoSans-Bold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Noto Sans';
+  src: url('../lib/fonts/QR3HDicATXtdC4z3-NotoSans-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'a Mono Light';
+  src: url('../lib/fonts/3me9IuJ0AU9FuAwN-sf-mono-light.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Be Vietnam';
+  src: url('../lib/fonts/BeVietnam-Bold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Be Vietnam';
+  src: url('../lib/fonts/BeVietnam-Italic.woff') format('woff');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Be Vietnam';
+  src: url('../lib/fonts/BeVietnam-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Cormorant';
+  src: url('../lib/fonts/Cormorant-Bold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Cormorant';
+  src: url('../lib/fonts/Cormorant-Italic.woff') format('woff');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Cormorant';
+  src: url('../lib/fonts/Cormorant-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Cormorant';
+  src: url('../lib/fonts/Cormorant-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+}
+
